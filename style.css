@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: transparent;
+}
+
+header{
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: black;
+    text-align: center;
+    padding: 60px;
+
+}
+
+#Aboutme>h2{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    margin:40px;
+
+}
+
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+
+.div1>p{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+.div1>a{
+    color: skyblue;
+}
